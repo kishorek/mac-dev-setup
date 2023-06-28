@@ -410,3 +410,8 @@ omz update
 ```sh
 brew update && brew upgrade && brew doctor && brew cleanup
 ```
+
+##### Quicklook plugins
+```sh
+brew install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize suspicious-package apparency quicklookase qlvideo
+```
